@@ -1,0 +1,22 @@
+Algorithm:
+
+
+Procedure For Encryption Of A File:
+Step 1: Start
+Step 2: Name Of The File Should Be Entered
+Step 3: Program Checked Wheather the File is Present Or Not.
+Step 4: Program Started Reading the File
+Step 5: Encrypting The Data by command:  CH=CH+100;
+Step 6: The Encrypted Data Is Stored On The File 
+Step 7: Stop
+
+
+
+Procedure For Decryption Of FIle
+Step 1: Start
+Step 2: Name Of The File Should Be Entered For Decrypting it.
+Step 3: Checking FIle Exist Or Not
+Step 4: Reading The File
+Step 5: Decrypting the Data by command: CH=CH-100;
+Step 6: Decrypted Data Saved On The File
+Step 7: Stop
